@@ -1,0 +1,40 @@
+Fisher's Iris Data Set: Summary Statistics
+------------------------------------------
+
+Petal Length (cm)
+-----------------
+Min:4.3
+Max:7.9
+Range:3.6
+
+Petal Width (cm)
+-----------------
+Min:2.0
+Max:4.4
+Range:2.4
+
+Sepal Length (cm)
+-----------------
+Min:1.0
+Max:6.9
+Range:5.9
+
+Sepal Width (cm)
+-----------------
+Min:0.1
+Max:2.5
+Range:2.4
+
+Mean Average (cm)
+-----------------
+Petal Length:5.84333333333
+Petal Width:3.054
+Sepal Length:3.75866666667
+Sepal Width:1.19866666667
+
+Median Values (cm)
+-----------------
+Petal Length:5.8
+Petal Width:3.0
+Sepal Length:4.35
+Sepal Width:1.3
